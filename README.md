@@ -90,10 +90,3 @@ O notebook contém uma narrativa em Markdown baseada nos seguintes elementos:
 - matplotlib
 - Jupyter Notebook
 
----
-
-## ✅ Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
